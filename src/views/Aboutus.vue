@@ -1,8 +1,8 @@
 <template>
 <div class="text-center mt-4 container">
-    <p class='fw-bold text-white animate__animated animate__flipInX'>
-        This button doesn't do anything
-    </p>
+    <h3 class='fw-bold text-white animate__animated animate__flipInX'>
+        This button doesn't do anything.
+    </h3>
 </div>
 </template>
 
